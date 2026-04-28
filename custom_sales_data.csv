@@ -1,0 +1,269 @@
+date,product,category,region,salesperson,quantity,unit_price,revenue,cost,profit
+2026-04-04,Consulting Retainer,Tech,Europe,Unknown,9,10000,90000,18000,72000
+2026-04-13,Enterprise Server X,Tech,North America,Charlie,5,5000,25000,15000,10000
+2026-04-13,Cloud Storage Tier 1,Tech,Asia,Alice,9,100,900,180,720
+2026-04-12,Cloud Storage Tier 1,Tech,Asia,Charlie,6,100,600,120,480
+2026-04-03,Cloud Storage Tier 1,Tech,Asia,Bob,10,100,1000,200,800
+2026-04-22,Cloud Storage Tier 1,Tech,Europe,Bob,1,100,100,20,80
+2026-04-06,Cloud Storage Tier 1,Tech,Asia,Charlie,2,100,200,40,160
+2026-04-21,Cloud Storage Tier 1,Tech,North America,Unknown,9,100,900,180,720
+2026-04-09,Enterprise Server X,Tech,Asia,Alice,8,5000,40000,24000,16000
+2026-03-31,Consulting Retainer,Tech,Asia,Alice,3,10000,30000,6000,24000
+2026-04-13,Consulting Retainer,Tech,Europe,Alice,9,10000,90000,18000,72000
+2026-04-09,Enterprise Server X,Tech,Asia,Charlie,6,5000,30000,18000,12000
+2026-04-02,Cloud Storage Tier 1,Tech,Europe,Bob,2,100,200,40,160
+2026-04-16,Cloud Storage Tier 1,Tech,Asia,Unknown,12,100,1200,240,960
+2026-04-23,Enterprise Server X,Tech,North America,Bob,4,5000,20000,12000,8000
+2026-04-17,Cloud Storage Tier 1,Tech,Asia,Charlie,8,100,800,160,640
+2026-04-01,Cloud Storage Tier 1,Tech,Asia,Unknown,18,100,1800,360,1440
+2026-04-10,Consulting Retainer,Tech,North America,Unknown,30,10000,300000,60000,240000
+2026-04-19,Enterprise Server X,Tech,Asia,Charlie,5,5000,25000,15000,10000
+2026-04-07,Cloud Storage Tier 1,Tech,Asia,Bob,4,100,400,80,320
+2026-04-10,Cloud Storage Tier 1,Tech,North America,Charlie,10,100,1000,200,800
+2026-04-26,Consulting Retainer,Tech,North America,Bob,4,10000,40000,8000,32000
+2026-04-16,Enterprise Server X,Tech,Asia,Bob,6,5000,30000,18000,12000
+2026-04-22,Cloud Storage Tier 1,Tech,Europe,Alice,3,100,300,60,240
+2026-04-14,Cloud Storage Tier 1,Tech,North America,Unknown,21,100,2100,420,1680
+2026-04-07,Cloud Storage Tier 1,Tech,Asia,Alice,2,100,200,40,160
+2026-04-05,Consulting Retainer,Tech,Asia,Alice,6,10000,60000,12000,48000
+2026-04-03,Cloud Storage Tier 1,Tech,Europe,Bob,8,100,800,160,640
+2026-04-23,Enterprise Server X,Tech,North America,Bob,10,5000,50000,30000,20000
+2026-04-15,Enterprise Server X,Tech,Asia,Unknown,15,5000,75000,45000,30000
+2026-04-08,Consulting Retainer,Tech,Europe,Alice,9,10000,90000,18000,72000
+2026-04-25,Consulting Retainer,Tech,Asia,Unknown,30,10000,300000,60000,240000
+2026-04-12,Cloud Storage Tier 1,Tech,Europe,Charlie,4,100,400,80,320
+2026-04-20,Consulting Retainer,Tech,North America,Unknown,9,10000,90000,18000,72000
+2026-03-31,Enterprise Server X,Tech,Asia,Unknown,24,5000,120000,72000,48000
+2026-04-13,Cloud Storage Tier 1,Tech,North America,Unknown,12,100,1200,240,960
+2026-04-16,Cloud Storage Tier 1,Tech,Asia,Unknown,9,100,900,180,720
+2026-03-31,Consulting Retainer,Tech,Asia,Charlie,5,10000,50000,10000,40000
+2026-04-18,Consulting Retainer,Tech,Asia,Charlie,6,10000,60000,12000,48000
+2026-04-16,Cloud Storage Tier 1,Tech,Asia,Bob,3,100,300,60,240
+2026-04-07,Consulting Retainer,Tech,Europe,Alice,6,10000,60000,12000,48000
+2026-04-08,Enterprise Server X,Tech,Asia,Charlie,3,5000,15000,9000,6000
+2026-04-09,Enterprise Server X,Tech,North America,Alice,8,5000,40000,24000,16000
+2026-04-12,Consulting Retainer,Tech,Europe,Unknown,24,10000,240000,48000,192000
+2026-04-22,Cloud Storage Tier 1,Tech,Europe,Alice,4,100,400,80,320
+2026-04-17,Cloud Storage Tier 1,Tech,Europe,Unknown,21,100,2100,420,1680
+2026-04-02,Enterprise Server X,Tech,Asia,Alice,2,5000,10000,6000,4000
+2026-04-19,Cloud Storage Tier 1,Tech,North America,Bob,3,100,300,60,240
+2026-04-14,Cloud Storage Tier 1,Tech,North America,Charlie,10,100,1000,200,800
+2026-04-20,Consulting Retainer,Tech,North America,Charlie,4,10000,40000,8000,32000
+2026-04-17,Cloud Storage Tier 1,Tech,North America,Bob,8,100,800,160,640
+2026-04-16,Cloud Storage Tier 1,Tech,Europe,Bob,9,100,900,180,720
+2026-04-26,Consulting Retainer,Tech,Europe,Bob,3,10000,30000,6000,24000
+2026-04-14,Cloud Storage Tier 1,Tech,North America,Alice,3,100,300,60,240
+2026-04-16,Consulting Retainer,Tech,Europe,Bob,6,10000,60000,12000,48000
+2026-04-21,Consulting Retainer,Tech,North America,Bob,2,10000,20000,4000,16000
+2026-04-20,Cloud Storage Tier 1,Tech,Europe,Charlie,3,100,300,60,240
+2026-04-10,Enterprise Server X,Tech,North America,Charlie,1,5000,5000,3000,2000
+2026-04-08,Consulting Retainer,Tech,Europe,Bob,3,10000,30000,6000,24000
+2026-04-04,Consulting Retainer,Tech,Asia,Bob,8,10000,80000,16000,64000
+2026-04-12,Consulting Retainer,Tech,North America,Alice,10,10000,100000,20000,80000
+2026-04-27,Cloud Storage Tier 1,Tech,Asia,Unknown,21,100,2100,420,1680
+2026-04-06,Enterprise Server X,Tech,North America,Bob,10,5000,50000,30000,20000
+2026-04-04,Cloud Storage Tier 1,Tech,North America,Bob,1,100,100,20,80
+2026-04-14,Cloud Storage Tier 1,Tech,Asia,Alice,9,100,900,180,720
+2026-04-01,Consulting Retainer,Tech,Asia,Alice,5,10000,50000,10000,40000
+2026-04-19,Enterprise Server X,Tech,North America,Unknown,18,5000,90000,54000,36000
+2026-04-14,Cloud Storage Tier 1,Tech,Europe,Alice,6,100,600,120,480
+2026-04-12,Enterprise Server X,Tech,Asia,Alice,3,5000,15000,9000,6000
+2026-04-24,Cloud Storage Tier 1,Tech,Europe,Unknown,3,100,300,60,240
+2026-04-07,Enterprise Server X,Tech,North America,Unknown,9,5000,45000,27000,18000
+2026-04-08,Enterprise Server X,Tech,Asia,Unknown,30,5000,150000,90000,60000
+2026-04-19,Consulting Retainer,Tech,North America,Alice,9,10000,90000,18000,72000
+2026-04-07,Enterprise Server X,Tech,Asia,Unknown,3,5000,15000,9000,6000
+2026-04-23,Enterprise Server X,Tech,Asia,Alice,8,5000,40000,24000,16000
+2026-04-04,Cloud Storage Tier 1,Tech,Asia,Charlie,4,100,400,80,320
+2026-04-22,Consulting Retainer,Tech,Europe,Alice,9,10000,90000,18000,72000
+2026-04-20,Enterprise Server X,Tech,North America,Bob,5,5000,25000,15000,10000
+2026-04-03,Cloud Storage Tier 1,Tech,Asia,Bob,1,100,100,20,80
+2026-04-26,Consulting Retainer,Tech,Asia,Unknown,3,10000,30000,6000,24000
+2026-04-08,Cloud Storage Tier 1,Tech,Asia,Charlie,8,100,800,160,640
+2026-04-08,Consulting Retainer,Tech,Europe,Bob,2,10000,20000,4000,16000
+2026-04-22,Enterprise Server X,Tech,Asia,Charlie,8,5000,40000,24000,16000
+2026-04-06,Consulting Retainer,Tech,North America,Unknown,3,10000,30000,6000,24000
+2026-04-25,Consulting Retainer,Tech,North America,Charlie,8,10000,80000,16000,64000
+2026-03-31,Consulting Retainer,Tech,Europe,Bob,2,10000,20000,4000,16000
+2026-04-19,Cloud Storage Tier 1,Tech,Asia,Bob,1,100,100,20,80
+2026-04-10,Cloud Storage Tier 1,Tech,Asia,Bob,8,100,800,160,640
+2026-03-31,Consulting Retainer,Tech,North America,Charlie,8,10000,80000,16000,64000
+2026-04-19,Cloud Storage Tier 1,Tech,Europe,Bob,8,100,800,160,640
+2026-04-13,Cloud Storage Tier 1,Tech,Asia,Alice,6,100,600,120,480
+2026-04-19,Consulting Retainer,Tech,Asia,Unknown,21,10000,210000,42000,168000
+2026-04-17,Consulting Retainer,Tech,North America,Charlie,6,10000,60000,12000,48000
+2026-04-07,Enterprise Server X,Tech,North America,Bob,10,5000,50000,30000,20000
+2026-04-21,Cloud Storage Tier 1,Tech,North America,Alice,2,100,200,40,160
+2026-04-22,Cloud Storage Tier 1,Tech,Asia,Unknown,24,100,2400,480,1920
+2026-04-15,Enterprise Server X,Tech,North America,Unknown,24,5000,120000,72000,48000
+2026-04-19,Enterprise Server X,Tech,Asia,Unknown,27,5000,135000,81000,54000
+2026-04-21,Consulting Retainer,Tech,Asia,Charlie,4,10000,40000,8000,32000
+2026-04-23,Cloud Storage Tier 1,Tech,North America,Unknown,3,100,300,60,240
+2026-04-03,Enterprise Server X,Tech,North America,Alice,2,5000,10000,6000,4000
+2026-04-25,Enterprise Server X,Tech,North America,Charlie,1,5000,5000,3000,2000
+2026-04-19,Consulting Retainer,Tech,Europe,Unknown,9,10000,90000,18000,72000
+2026-04-10,Consulting Retainer,Tech,North America,Unknown,30,10000,300000,60000,240000
+2026-04-26,Consulting Retainer,Tech,Asia,Charlie,1,10000,10000,2000,8000
+2026-04-14,Consulting Retainer,Tech,Europe,Charlie,4,10000,40000,8000,32000
+2026-04-23,Consulting Retainer,Tech,North America,Unknown,15,10000,150000,30000,120000
+2026-04-24,Cloud Storage Tier 1,Tech,Europe,Alice,9,100,900,180,720
+2026-04-03,Consulting Retainer,Tech,Europe,Unknown,15,10000,150000,30000,120000
+2026-04-27,Cloud Storage Tier 1,Tech,North America,Bob,6,100,600,120,480
+2026-04-18,Enterprise Server X,Tech,Asia,Alice,9,5000,45000,27000,18000
+2026-04-25,Cloud Storage Tier 1,Tech,Asia,Bob,5,100,500,100,400
+2026-04-08,Consulting Retainer,Tech,Europe,Charlie,3,10000,30000,6000,24000
+2026-04-08,Cloud Storage Tier 1,Tech,North America,Bob,6,100,600,120,480
+2026-04-20,Enterprise Server X,Tech,Asia,Unknown,18,5000,90000,54000,36000
+2026-04-16,Consulting Retainer,Tech,Europe,Charlie,1,10000,10000,2000,8000
+2026-04-09,Consulting Retainer,Tech,Asia,Unknown,12,10000,120000,24000,96000
+2026-04-16,Enterprise Server X,Tech,Asia,Alice,7,5000,35000,21000,14000
+2026-04-07,Cloud Storage Tier 1,Tech,Europe,Alice,3,100,300,60,240
+2026-04-20,Consulting Retainer,Tech,North America,Bob,3,10000,30000,6000,24000
+2026-04-06,Consulting Retainer,Tech,Europe,Charlie,5,10000,50000,10000,40000
+2026-04-03,Consulting Retainer,Tech,Europe,Bob,9,10000,90000,18000,72000
+2026-04-19,Enterprise Server X,Tech,Asia,Charlie,6,5000,30000,18000,12000
+2026-04-02,Enterprise Server X,Tech,Asia,Charlie,10,5000,50000,30000,20000
+2026-04-21,Enterprise Server X,Tech,Asia,Unknown,9,5000,45000,27000,18000
+2026-04-25,Cloud Storage Tier 1,Tech,North America,Bob,6,100,600,120,480
+2026-04-01,Enterprise Server X,Tech,Asia,Unknown,30,5000,150000,90000,60000
+2026-04-25,Consulting Retainer,Tech,Europe,Unknown,18,10000,180000,36000,144000
+2026-04-22,Consulting Retainer,Tech,Asia,Bob,1,10000,10000,2000,8000
+2026-04-04,Cloud Storage Tier 1,Tech,North America,Unknown,3,100,300,60,240
+2026-04-10,Consulting Retainer,Tech,North America,Unknown,9,10000,90000,18000,72000
+2026-03-31,Consulting Retainer,Tech,Asia,Alice,3,10000,30000,6000,24000
+2026-04-20,Cloud Storage Tier 1,Tech,North America,Alice,2,100,200,40,160
+2026-04-25,Consulting Retainer,Tech,North America,Bob,2,10000,20000,4000,16000
+2026-04-05,Enterprise Server X,Tech,North America,Charlie,5,5000,25000,15000,10000
+2026-04-01,Enterprise Server X,Tech,Asia,Alice,8,5000,40000,24000,16000
+2026-04-04,Cloud Storage Tier 1,Tech,North America,Bob,10,100,1000,200,800
+2026-04-10,Cloud Storage Tier 1,Tech,Asia,Bob,3,100,300,60,240
+2026-04-16,Consulting Retainer,Tech,Europe,Bob,8,10000,80000,16000,64000
+2026-04-19,Cloud Storage Tier 1,Tech,North America,Alice,4,100,400,80,320
+2026-04-20,Cloud Storage Tier 1,Tech,North America,Unknown,3,100,300,60,240
+2026-04-17,Cloud Storage Tier 1,Tech,Europe,Alice,4,100,400,80,320
+2026-04-24,Consulting Retainer,Tech,North America,Unknown,15,10000,150000,30000,120000
+2026-04-04,Cloud Storage Tier 1,Tech,Europe,Charlie,1,100,100,20,80
+2026-04-25,Consulting Retainer,Tech,Europe,Bob,7,10000,70000,14000,56000
+2026-04-14,Cloud Storage Tier 1,Tech,Asia,Unknown,6,100,600,120,480
+2026-04-03,Enterprise Server X,Tech,North America,Charlie,3,5000,15000,9000,6000
+2026-04-18,Enterprise Server X,Tech,Asia,Charlie,3,5000,15000,9000,6000
+2026-04-17,Cloud Storage Tier 1,Tech,Europe,Bob,3,100,300,60,240
+2026-04-24,Consulting Retainer,Tech,Asia,Alice,2,10000,20000,4000,16000
+2026-04-05,Cloud Storage Tier 1,Tech,Asia,Charlie,1,100,100,20,80
+2026-04-16,Consulting Retainer,Tech,North America,Bob,6,10000,60000,12000,48000
+2026-04-20,Enterprise Server X,Tech,Asia,Bob,2,5000,10000,6000,4000
+2026-04-09,Enterprise Server X,Tech,Asia,Charlie,7,5000,35000,21000,14000
+2026-04-14,Cloud Storage Tier 1,Tech,Europe,Alice,8,100,800,160,640
+2026-04-26,Cloud Storage Tier 1,Tech,Asia,Alice,8,100,800,160,640
+2026-04-04,Enterprise Server X,Tech,North America,Charlie,6,5000,30000,18000,12000
+2026-04-18,Consulting Retainer,Tech,Asia,Bob,9,10000,90000,18000,72000
+2026-04-24,Enterprise Server X,Tech,North America,Bob,2,5000,10000,6000,4000
+2026-04-14,Cloud Storage Tier 1,Tech,Asia,Charlie,6,100,600,120,480
+2026-04-11,Consulting Retainer,Tech,North America,Alice,5,10000,50000,10000,40000
+2026-04-06,Cloud Storage Tier 1,Tech,Asia,Bob,5,100,500,100,400
+2026-04-23,Cloud Storage Tier 1,Tech,Europe,Charlie,3,100,300,60,240
+2026-04-07,Consulting Retainer,Tech,Asia,Bob,7,10000,70000,14000,56000
+2026-04-13,Cloud Storage Tier 1,Tech,Asia,Alice,5,100,500,100,400
+2026-04-11,Consulting Retainer,Tech,Europe,Unknown,30,10000,300000,60000,240000
+2026-04-26,Enterprise Server X,Tech,North America,Charlie,3,5000,15000,9000,6000
+2026-04-11,Consulting Retainer,Tech,North America,Charlie,2,10000,20000,4000,16000
+2026-04-16,Consulting Retainer,Tech,Asia,Unknown,21,10000,210000,42000,168000
+2026-04-22,Consulting Retainer,Tech,North America,Charlie,4,10000,40000,8000,32000
+2026-04-14,Cloud Storage Tier 1,Tech,Europe,Unknown,3,100,300,60,240
+2026-04-24,Cloud Storage Tier 1,Tech,Asia,Charlie,2,100,200,40,160
+2026-04-05,Consulting Retainer,Tech,North America,Unknown,18,10000,180000,36000,144000
+2026-04-09,Consulting Retainer,Tech,North America,Alice,10,10000,100000,20000,80000
+2026-04-02,Consulting Retainer,Tech,North America,Unknown,18,10000,180000,36000,144000
+2026-04-14,Cloud Storage Tier 1,Tech,North America,Unknown,30,100,3000,600,2400
+2026-04-12,Cloud Storage Tier 1,Tech,North America,Alice,1,100,100,20,80
+2026-04-20,Enterprise Server X,Tech,North America,Bob,9,5000,45000,27000,18000
+2026-04-14,Consulting Retainer,Tech,Asia,Bob,4,10000,40000,8000,32000
+2026-04-09,Consulting Retainer,Tech,Asia,Alice,1,10000,10000,2000,8000
+2026-04-16,Enterprise Server X,Tech,Asia,Alice,5,5000,25000,15000,10000
+2026-04-16,Enterprise Server X,Tech,Asia,Unknown,21,5000,105000,63000,42000
+2026-04-14,Cloud Storage Tier 1,Tech,Europe,Alice,3,100,300,60,240
+2026-04-13,Enterprise Server X,Tech,North America,Bob,10,5000,50000,30000,20000
+2026-04-22,Enterprise Server X,Tech,Asia,Charlie,10,5000,50000,30000,20000
+2026-04-03,Cloud Storage Tier 1,Tech,Asia,Bob,7,100,700,140,560
+2026-04-05,Consulting Retainer,Tech,North America,Unknown,3,10000,30000,6000,24000
+2026-04-17,Cloud Storage Tier 1,Tech,Europe,Unknown,27,100,2700,540,2160
+2026-04-13,Enterprise Server X,Tech,North America,Unknown,6,5000,30000,18000,12000
+2026-04-02,Cloud Storage Tier 1,Tech,Asia,Charlie,1,100,100,20,80
+2026-04-18,Enterprise Server X,Tech,North America,Alice,4,5000,20000,12000,8000
+2026-04-03,Consulting Retainer,Tech,North America,Unknown,21,10000,210000,42000,168000
+2026-04-03,Cloud Storage Tier 1,Tech,Europe,Bob,7,100,700,140,560
+2026-04-05,Enterprise Server X,Tech,Asia,Alice,5,5000,25000,15000,10000
+2026-04-23,Consulting Retainer,Tech,Asia,Unknown,6,10000,60000,12000,48000
+2026-04-11,Consulting Retainer,Tech,North America,Bob,9,10000,90000,18000,72000
+2026-04-06,Consulting Retainer,Tech,North America,Charlie,4,10000,40000,8000,32000
+2026-04-25,Consulting Retainer,Tech,North America,Charlie,3,10000,30000,6000,24000
+2026-04-21,Enterprise Server X,Tech,North America,Charlie,2,5000,10000,6000,4000
+2026-04-19,Enterprise Server X,Tech,North America,Alice,5,5000,25000,15000,10000
+2026-04-06,Enterprise Server X,Tech,North America,Bob,10,5000,50000,30000,20000
+2026-04-08,Consulting Retainer,Tech,Asia,Bob,5,10000,50000,10000,40000
+2026-04-04,Enterprise Server X,Tech,North America,Alice,7,5000,35000,21000,14000
+2026-04-07,Consulting Retainer,Tech,Europe,Bob,5,10000,50000,10000,40000
+2026-04-04,Cloud Storage Tier 1,Tech,Asia,Bob,3,100,300,60,240
+2026-04-09,Cloud Storage Tier 1,Tech,North America,Charlie,8,100,800,160,640
+2026-04-03,Cloud Storage Tier 1,Tech,Asia,Unknown,3,100,300,60,240
+2026-04-14,Cloud Storage Tier 1,Tech,North America,Alice,1,100,100,20,80
+2026-04-10,Cloud Storage Tier 1,Tech,Europe,Alice,7,100,700,140,560
+2026-04-23,Cloud Storage Tier 1,Tech,Europe,Alice,3,100,300,60,240
+2026-04-24,Enterprise Server X,Tech,Asia,Unknown,9,5000,45000,27000,18000
+2026-04-26,Enterprise Server X,Tech,Asia,Alice,9,5000,45000,27000,18000
+2026-04-17,Consulting Retainer,Tech,Europe,Charlie,7,10000,70000,14000,56000
+2026-04-05,Consulting Retainer,Tech,North America,Alice,10,10000,100000,20000,80000
+2026-04-26,Consulting Retainer,Tech,Asia,Alice,9,10000,90000,18000,72000
+2026-04-27,Cloud Storage Tier 1,Tech,Europe,Charlie,2,100,200,40,160
+2026-04-11,Cloud Storage Tier 1,Tech,North America,Charlie,10,100,1000,200,800
+2026-04-07,Enterprise Server X,Tech,Asia,Alice,4,5000,20000,12000,8000
+2026-04-27,Cloud Storage Tier 1,Tech,Asia,Alice,1,100,100,20,80
+2026-04-27,Cloud Storage Tier 1,Tech,Europe,Bob,9,100,900,180,720
+2026-03-31,Enterprise Server X,Tech,North America,Charlie,1,5000,5000,3000,2000
+2026-04-05,Consulting Retainer,Tech,Europe,Charlie,8,10000,80000,16000,64000
+2026-04-27,Consulting Retainer,Tech,North America,Bob,8,10000,80000,16000,64000
+2026-04-03,Cloud Storage Tier 1,Tech,North America,Charlie,5,100,500,100,400
+2026-04-17,Consulting Retainer,Tech,Europe,Unknown,6,10000,60000,12000,48000
+2026-04-09,Consulting Retainer,Tech,Asia,Unknown,30,10000,300000,60000,240000
+2026-04-22,Cloud Storage Tier 1,Tech,Europe,Unknown,3,100,300,60,240
+2026-04-01,Cloud Storage Tier 1,Tech,North America,Bob,7,100,700,140,560
+2026-04-10,Consulting Retainer,Tech,Asia,Charlie,8,10000,80000,16000,64000
+2026-04-15,Cloud Storage Tier 1,Tech,North America,Bob,6,100,600,120,480
+2026-04-03,Cloud Storage Tier 1,Tech,Europe,Bob,9,100,900,180,720
+2026-04-20,Cloud Storage Tier 1,Tech,Europe,Bob,6,100,600,120,480
+2026-04-17,Consulting Retainer,Tech,Asia,Charlie,4,10000,40000,8000,32000
+2026-04-15,Consulting Retainer,Tech,Europe,Unknown,30,10000,300000,60000,240000
+2026-04-17,Cloud Storage Tier 1,Tech,Europe,Bob,4,100,400,80,320
+2026-04-07,Cloud Storage Tier 1,Tech,North America,Bob,1,100,100,20,80
+2026-04-09,Cloud Storage Tier 1,Tech,Asia,Unknown,15,100,1500,300,1200
+2026-04-05,Enterprise Server X,Tech,Asia,Charlie,9,5000,45000,27000,18000
+2026-03-31,Cloud Storage Tier 1,Tech,North America,Alice,6,100,600,120,480
+2026-04-04,Cloud Storage Tier 1,Tech,Asia,Charlie,8,100,800,160,640
+2026-03-31,Enterprise Server X,Tech,Asia,Bob,9,5000,45000,27000,18000
+2026-04-24,Cloud Storage Tier 1,Tech,Europe,Alice,6,100,600,120,480
+2026-04-24,Cloud Storage Tier 1,Tech,Europe,Unknown,9,100,900,180,720
+2026-04-04,Consulting Retainer,Tech,Asia,Alice,7,10000,70000,14000,56000
+2026-04-05,Enterprise Server X,Tech,Asia,Bob,2,5000,10000,6000,4000
+2026-04-07,Enterprise Server X,Tech,North America,Alice,2,5000,10000,6000,4000
+2026-04-27,Consulting Retainer,Tech,Asia,Alice,8,10000,80000,16000,64000
+2026-04-11,Consulting Retainer,Tech,Asia,Bob,2,10000,20000,4000,16000
+2026-04-27,Cloud Storage Tier 1,Tech,Europe,Charlie,4,100,400,80,320
+2026-04-02,Cloud Storage Tier 1,Tech,North America,Bob,9,100,900,180,720
+2026-04-15,Cloud Storage Tier 1,Tech,North America,Alice,4,100,400,80,320
+2026-04-03,Consulting Retainer,Tech,Europe,Alice,2,10000,20000,4000,16000
+2026-04-23,Enterprise Server X,Tech,Asia,Charlie,2,5000,10000,6000,4000
+2026-04-23,Cloud Storage Tier 1,Tech,North America,Bob,6,100,600,120,480
+2026-04-14,Cloud Storage Tier 1,Tech,North America,Unknown,6,100,600,120,480
+2026-03-31,Consulting Retainer,Tech,North America,Unknown,9,10000,90000,18000,72000
+2026-04-17,Consulting Retainer,Tech,North America,Bob,9,10000,90000,18000,72000
+2026-04-11,Consulting Retainer,Tech,Asia,Alice,3,10000,30000,6000,24000
+2026-04-18,Consulting Retainer,Tech,North America,Bob,9,10000,90000,18000,72000
+2026-04-24,Cloud Storage Tier 1,Tech,Europe,Unknown,30,100,3000,600,2400
+2026-04-01,Enterprise Server X,Tech,North America,Unknown,27,5000,135000,81000,54000
+2026-04-27,Consulting Retainer,Tech,Europe,Bob,7,10000,70000,14000,56000
+2026-04-06,Cloud Storage Tier 1,Tech,Asia,Bob,7,100,700,140,560
+2026-04-18,Cloud Storage Tier 1,Tech,Europe,Alice,8,100,800,160,640
+2026-04-03,Cloud Storage Tier 1,Tech,North America,Unknown,30,100,3000,600,2400
+2026-04-09,Consulting Retainer,Tech,Europe,Charlie,9,10000,90000,18000,72000
+2026-04-14,Enterprise Server X,Tech,Asia,Charlie,8,5000,40000,24000,16000
+2026-04-25,Cloud Storage Tier 1,Tech,Europe,Charlie,9,100,900,180,720
