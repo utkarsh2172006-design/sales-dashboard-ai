@@ -102,16 +102,16 @@ export function parseAndCleanCSV(csvText: string): ParseResult {
     }
 
     // Build the clean record
-    const date = parseDate((mapped.date as string) || '');
-    const product = cleanString((mapped.product as string) || '');
-    const category = cleanString((mapped.category as string) || 'General');
-    const region = cleanString((mapped.region as string) || 'Unknown');
-    const salesperson = cleanString((mapped.salesperson as string) || 'Unknown');
-    const quantity = parseNumber((mapped.quantity as string) || '1');
-    const unit_price = parseNumber((mapped.unit_price as string) || '0');
-    let revenue = parseNumber((mapped.revenue as string) || '0');
-    let cost = parseNumber((mapped.cost as string) || '0');
-    let profit = parseNumber((mapped.profit as string) || '0');
+    const date = parseDate(String(mapped.date || ''));
+    const product = cleanString(String(mapped.product || ''));
+    const category = cleanString(String(mapped.category || 'General'));
+    const region = cleanString(String(mapped.region || 'Unknown'));
+    const salesperson = cleanString(String(mapped.salesperson || 'Unknown'));
+    const quantity = parseNumber(String(mapped.quantity || '1'));
+    const unit_price = parseNumber(String(mapped.unit_price || '0'));
+    let revenue = parseNumber(String(mapped.revenue || '0'));
+    let cost = parseNumber(String(mapped.cost || '0'));
+    let profit = parseNumber(String(mapped.profit || '0'));
 
     // Derive missing values
     if (revenue === 0 && quantity > 0 && unit_price > 0) revenue = quantity * unit_price;
